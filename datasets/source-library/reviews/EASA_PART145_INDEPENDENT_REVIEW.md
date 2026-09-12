@@ -124,12 +124,18 @@ Permitted review results:
 
 | Action ID | Open item | Criticality | Owner | Target date | Status |
 |---|---|---|---|---|---|
-| EASA-IR-001 | Record exact Status Dataset date | P0 | | | OPEN |
+| EASA-IR-001 | Confirm official Status Dataset update date | P0 | | | CLOSED WITH LIMITATION — XLSX and PDF reconciled; retrieval/export date verified as 2026-09-09; official EASA dataset update date not published or independently verified |
 | EASA-IR-002 | Confirm no later Certificate exists | P0 | | | OPEN |
 | EASA-IR-003 | Confirm no later Terms of Approval exists | P0 | | | OPEN |
 | EASA-IR-004 | Confirm Capability List Revision 00 remains current | P0 | | | OPEN |
 | EASA-IR-005 | Resolve Capability List date discrepancy | P0 | | | OPEN |
 | EASA-IR-006 | Complete detailed Amendment 9 review | P0 | | | OPEN |
+
+### Status Dataset Review Note
+
+The XLSX and PDF records for EASA.145.0775 were reconciled. The approval number, organisation identity, country, six A1 aircraft limitation records, one C07 rating record and four D1 NDT-method records are consistent.
+
+The date 2026-09-09 is controlled as the project retrieval/export date. Because an official EASA dataset update date was not published or independently verified, EASA-IR-001 is closed with limitation rather than passed without qualification.
 
 ## 10. Review Decision
 
