@@ -144,10 +144,10 @@ The MOE describes the approved organisation, management system, procedures, loca
 | Status Dataset | EASA.145.0775 and organisation name | VERIFIED — VALID LISTING IDENTIFIED | Retain dataset date and retrieval evidence |
 | Approval Certificate | EASA Form 3 Revision 7, dated 7 December 2024 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
 | Terms of Approval | Attached to Certificate Revision 7 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
-| MOE | EASA-VAECO-MOE Revision 23, approved 4 October 2024 | PARTIAL | Reconcile with any claimed Revision 28 |
-| Scope Dataset | Aircraft, C07, D1 and approved locations | PARTIAL | Reconcile detailed capability and location allocation |
+| MOE | VAECO-EASA-MOE Revision 28, approved 6 June 2026 | VERIFIED | EASA approval evidence and LEP reviewed |
+| Scope Dataset | Aircraft ratings, maintenance levels, C07, D1 and approved locations | PARTIAL PASS | C07 detail remains subject to approved Capability List |
 | Approved locations | HAN and SGN | VERIFIED | Detailed capability by location remains open |
-| NDT scope | PT, MT, ET and UT | PARTIAL | Methods verified; allocation by location not established |
+| NDT scope | D1: PT, MT, ET and UT at HAN and HCM; NDT under A1 also includes TT | VERIFIED | Personnel authorisation and implementation evidence remain outside this source review |
 
 Certificate Revision 7 and its attached Terms of Approval were verified from the provided two-page EASA Form 3 copy. The Terms of Approval references EASA-VAECO-MOE Revision 23, approved on 4 October 2024. Any assertion that MOE Revision 28 is current requires separate approval evidence and reconciliation.
 ## 8. Date Reconciliation Rule
@@ -224,9 +224,9 @@ Gate closure remains subject to auditor approval and independent review.
 | EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | PARTIAL PASS — VALID LISTING IDENTIFIED; DATASET DATE OPEN |
 | EASA-VP-005 | Confirm current Approval Certificate | P0 | PARTIAL PASS — REVISION 7 VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-006 | Confirm current Terms of Approval | P0 | PARTIAL PASS - ATTACHED TERMS VERIFIED; LATEST-REVISION CHECK OPEN |
-| EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PARTIAL - REVISION 23 VERIFIED FROM TERMS; LATER REVISION REQUIRES EVIDENCE |
-| EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL - AIRCRAFT RATINGS, C07, D1 AND LOCATIONS IDENTIFIED |
-| EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PARTIAL PASS - HAN/SGN AND NDT METHODS VERIFIED; METHOD-BY-LOCATION OPEN |
+| EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PASS - REVISION 28 APPROVED ON 6 JUNE 2026 |
+| EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS - C07 CAPABILITY LIST REVIEW OPEN |
+| EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PASS - HAN/HCM AND NDT SCOPE VERIFIED |
 | EASA-VP-010 | Complete independent review | P0 | OPEN |
 
 ## 13. Change History
@@ -236,3 +236,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Initial EASA Part-145 verification pass created | HOPHUONG-SQD |
 | 2026-09-12 | Updated Regulation 1321/2014, ED Decision and AMC/GM source status | HOPHUONG-SQD |
 | 2026-09-12 | Updated Certificate Revision 7, Terms of Approval, MOE reference and scope evidence | HOPHUONG-SQD |
+| 2026-09-12 | Reconciled EASA-approved MOE Revision 28, locations and NDT scope | HOPHUONG-SQD |
