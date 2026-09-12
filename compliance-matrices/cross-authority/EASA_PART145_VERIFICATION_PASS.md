@@ -227,7 +227,7 @@ Gate closure remains subject to auditor approval and independent review.
 | EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PASS - REVISION 28 APPROVED ON 6 JUNE 2026 |
 | EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS - C07 CONTENT VERIFIED; DATE AND CURRENT-REVISION CONFIRMATION OPEN |
 | EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PASS - HAN/HCM AND NDT SCOPE VERIFIED |
-| EASA-VP-010 | Complete independent review | P0 | OPEN |
+| EASA-VP-010 | Complete independent review | P0 | PENDING REVIEW - REVIEW RECORD CREATED |
 
 ## 13. Change History
 
@@ -238,3 +238,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Updated Certificate Revision 7, Terms of Approval, MOE reference and scope evidence | HOPHUONG-SQD |
 | 2026-09-12 | Reconciled EASA-approved MOE Revision 28, locations and NDT scope | HOPHUONG-SQD |
 | 2026-09-12 | Updated C07 Capability List verification status | HOPHUONG-SQD |
+| 2026-09-12 | Created EASA independent-review gate and pending review record | HOPHUONG-SQD |
