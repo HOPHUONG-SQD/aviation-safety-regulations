@@ -6,17 +6,17 @@
 
 | Field | Information |
 |-------|-------------|
-| Review ID ID | IR-E EASA-2026-001-001-001 |
+| Review ID | IR-EASA-2026-001 |
 | Project | Aviation Safety Regulations |
 | Authority | European Union Aviation Safety Agency |
-| Organisation | Part-145 source, Scope and VAECO approval EASA.145.0775 |
+| Subject | EASA Part-145 sources and VAECO approval EASA.145.0775 |
 | Verification pass | compliance-matrices/cross-authority/EASA_PART145_VERIFICATION_PASS.md |
 | Prepared by | HOPHUONG-SQD |
 | Independent reviewer | |
 | Reviewer role | |
 | Review date | |
 | Current review status | `PENDING REVIEW` |
-| Compliance assessment | Not performed not performed |
+| Compliance assessment | Not performed |
 
 ## 2. Review Objective
 
