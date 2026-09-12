@@ -39,8 +39,9 @@ The EASA Part-145 framework is controlled through:
 | EASA-BASIC-2018-1139 | Regulation (EU) 2018/1139 | Mandatory regulation | https://eur-lex.europa.eu/eli/reg/2018/1139/oj | VERIFIED | Check amendments |
 | EASA-REG-1321-2014 | Regulation (EU) No 1321/2014 | Mandatory implementing regulation | https://eur-lex.europa.eu/eli/reg/2014/1321/oj | VERIFICATION REQUIRED | Confirm latest consolidated text |
 | EASA-PART145-001 | Annex II — Part-145 | Mandatory regulation | Regulation 1321/2014 consolidated text | VERIFICATION REQUIRED | Confirm current amendment |
-| EASA-ED-2026-002-R | ED Decision 2026/002/R | EASA Decision | Official EASA document required | NOT LOCATED / VERIFICATION REQUIRED | Obtain official decision and annexes |
-| EASA-AMC-GM-P145-001 | AMC and GM to Part-145 | AMC/GM | https://www.easa.europa.eu/en/document-library/easy-access-rules | VERIFICATION REQUIRED | Confirm controlling ED Decision |
+| EASA-ED-2026-002-R | ED Decision 2026/002/R | EASA Decision | https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026002r | VERIFIED — ISSUE 2 AMENDMENT 8 | Valid amendment history; not latest amendment |
+| EASA-ED-2026-005-R | ED Decision 2026/005/R | EASA Decision | Associated with AMC & GM to Part-145 Issue 2, Amendment 9 | VERIFIED — LATEST DECISION IDENTIFIED | Complete detailed decision-content review |
+| EASA-AMC-GM-P145-001 | AMC & GM to Part-145 — Issue 2, Amendment 9 | AMC/GM | https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-material/amc-gm-part-145-issue-2-amendment-9 | VERIFIED — CURRENT PUBLICATION IDENTIFIED | Detailed provision-level review remains open |
 | EASA-F145-UG-001 | Foreign Part-145 User Guide | Administrative guidance | EASA Foreign Part-145 portal | VERIFICATION REQUIRED | Confirm current guide and revision |
 | EASA-STATUS-0775 | Valid Foreign Part-145 organisation listing | Status evidence | EASA valid Foreign Part-145 list | VERIFIED — ORGANISATION IDENTIFIED | Record dataset date and retrieval evidence |
 | EASA-CERT-0775 | EASA Form 3 / Approval Certificate | Approval evidence | Organisation-controlled source | VERIFICATION REQUIRED | Confirm current certificate revision |
@@ -130,9 +131,9 @@ The MOE describes the approved organisation, management system, procedures, loca
 | AMO-19 | Changes to organisation | 145.A.85 | VERIFY | Identify prior-approval and notification cases |
 | AMO-20 | Continued validity | 145.A.90 | VERIFY | Confirm approval conditions |
 | AMO-21 | Findings | 145.A.95 | VERIFY | Confirm classification and closure periods |
-| AMO-22 | Management system and compliance monitoring | Current Part-145 management-system provisions | VERIFY | Confirm current numbering and AMC/GM |
-| AMO-23 | Safety Management System | Current Part-145 management-system provisions | VERIFY | Confirm phased applicability and interfaces |
-| AMO-24 | Contracted and subcontracted maintenance | Part-145 provisions and AMC/GM | VERIFY | Distinguish contracting from subcontracting |
+| AMO-22 | Management system and compliance monitoring | 145.A.200 | VERIFIED | Detailed AMC/GM mapping remains open |
+| AMO-23 | Safety Management System and internal safety reporting | 145.A.200 and 145.A.202 | VERIFIED | Detailed AMC/GM applicability remains open |
+| AMO-24 | Contracted and subcontracted activities | 145.A.205 | VERIFIED | Confirm organisation-specific implementation evidence separately |
 | AMO-25 | Approved locations | Certificate, Terms of Approval and MOE | VERIFY | Confirm HAN, SGN and other approved locations |
 | AMO-26 | Specialised services and NDT | Terms of Approval, MOE and personnel requirements | VERIFY | Confirm methods, levels and locations |
 
@@ -172,7 +173,8 @@ The EASA Gate may move toward `PASS` only when:
 
 - Current consolidated Regulation 1321/2014 is confirmed
 - Current Part-145 text is confirmed
-- Controlling ED Decision and AMC/GM are confirmed
+- Current AMC & GM to Part-145 publication and associated ED Decision are identified
+- Detailed amendment content and cumulative decision history are reviewed
 - EASA.145.0775 status and dataset date are recorded
 - Current Approval Certificate is confirmed
 - Current Terms of Approval are confirmed
@@ -184,3 +186,53 @@ The EASA Gate may move toward `PASS` only when:
 
 ```text
 OPEN — P0 VERIFICATION REQUIRED
+```
+
+Reason:
+
+- Regulation 1321/2014 consolidated source has been identified
+- Detailed Annex II requirement review remains open
+- ED Decision 2026/002/R has been verified as the source of Issue 2, Amendment 8
+- Issue 2, Amendment 9 and associated ED Decision 2026/005/R have been identified as the latest publications
+- Detailed Amendment 9 content and cumulative AMC/GM history still require review
+- Organisation-specific Certificate, Terms of Approval, MOE and Scope Dataset require final reconciliation
+
+## 11. Compliance Boundary
+
+This verification pass assesses:
+
+- Source identity
+- Source status
+- Applicability evidence
+- Completeness of the EASA source chain
+
+It does not:
+
+- Declare VAECO compliant
+- Establish an audit finding
+- Approve a compliance-matrix conclusion
+- Automatically close EASA Gate G5
+
+Gate closure remains subject to auditor approval and independent review.
+
+## 12. Open Actions
+
+| Action ID | Required action | Priority | Status |
+|---|---|---|---|
+| EASA-VP-001 | Confirm latest consolidated Regulation 1321/2014 | P0 | PARTIAL PASS — SOURCE IDENTIFIED |
+| EASA-VP-002 | Verify ED Decision and amendment chain | P0 | PARTIAL PASS — LATEST DECISION IDENTIFIED |
+| EASA-VP-003 | Confirm current AMC/GM to Part-145 | P0 | PARTIAL PASS — ISSUE 2 AMENDMENT 9 IDENTIFIED |
+| EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | OPEN |
+| EASA-VP-005 | Confirm current Approval Certificate | P0 | OPEN |
+| EASA-VP-006 | Confirm current Terms of Approval | P0 | OPEN |
+| EASA-VP-007 | Confirm MOE approval and amendment status | P0 | OPEN |
+| EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | OPEN |
+| EASA-VP-009 | Confirm approved locations and NDT scope | P0 | OPEN |
+| EASA-VP-010 | Complete independent review | P0 | OPEN |
+
+## 13. Change History
+
+| Date | Change | Performed by |
+|---|---|---|
+| 2026-09-12 | Initial EASA Part-145 verification pass created | HOPHUONG-SQD |
+| 2026-09-12 | Updated Regulation 1321/2014, ED Decision and AMC/GM source status | HOPHUONG-SQD |
