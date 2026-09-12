@@ -1,0 +1,35 @@
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary and generated files
+.tmp/
+temp/
+tmp/
+dist/
+build/
+*.log
+
+# Private or confidential working files
+private/
+confidential/
+local-only/
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Backup files
+*.bak
+*.tmp
