@@ -144,7 +144,7 @@ The MOE describes the approved organisation, management system, procedures, loca
 | Status Dataset | EASA.145.0775 and organisation name | VERIFIED — VALID LISTING IDENTIFIED | Retrieval/export date verified as 2026-09-09; official EASA dataset update date not published |
 | Approval Certificate | EASA Form 3 Revision 7, dated 7 December 2024 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
 | Terms of Approval | Attached to Certificate Revision 7 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
-| MOE | VAECO-EASA-MOE Revision 28, approved 6 June 2026 | VERIFIED | EASA approval evidence and LEP reviewed |
+| MOE | VAECO-EASA-MOE Revision 28, dated 06 June 2026 | VERIFIED FROM PROVIDED APPROVAL EVIDENCE | Approval letter 2026/OATpl/PH-1999 confirms document 1450775MOE260606 Rev28; confirm no later controlled revision exists |
 | Scope Dataset | Aircraft ratings, maintenance levels, C07, D1 and approved locations | PARTIAL PASS | C07 detail remains subject to approved Capability List |
 | Approved locations | HAN and SGN | VERIFIED | Detailed capability by location remains open |
 | NDT scope | D1: PT, MT, ET and UT at HAN and HCM; NDT under A1 also includes TT | VERIFIED | Personnel authorisation and implementation evidence remain outside this source review |
@@ -224,7 +224,7 @@ Gate closure remains subject to auditor approval and independent review.
 | EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | PARTIAL PASS — VALID LISTING AND RETRIEVAL/EXPORT DATE VERIFIED; OFFICIAL DATASET UPDATE DATE NOT PUBLISHED |
 | EASA-VP-005 | Confirm current Approval Certificate | P0 | PARTIAL PASS — REVISION 7 VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-006 | Confirm current Terms of Approval | P0 | PARTIAL PASS - ATTACHED TERMS VERIFIED; LATEST-REVISION CHECK OPEN |
-| EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PASS - REVISION 28 APPROVED ON 6 JUNE 2026 |
+| EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PARTIAL PASS — REVISION 28 APPROVAL EVIDENCE VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS - C07 CONTENT VERIFIED; DATE AND CURRENT-REVISION CONFIRMATION OPEN |
 | EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PASS - HAN/HCM AND NDT SCOPE VERIFIED |
 | EASA-VP-010 | Complete independent review | P0 | PENDING REVIEW - REVIEW RECORD CREATED |
@@ -240,3 +240,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Updated C07 Capability List verification status | HOPHUONG-SQD |
 | 2026-09-12 | Created EASA independent-review gate and pending review record | HOPHUONG-SQD |
 | 2026-09-12 | Reconciled Status Dataset XLSX/PDF and closed EASA-IR-001 with limitation | HOPHUONG-SQD |
+| 2026-09-12 | Verified VAECO-EASA-MOE Revision 28 approval evidence and updated EASA-VP-007 | HOPHUONG-SQD |
