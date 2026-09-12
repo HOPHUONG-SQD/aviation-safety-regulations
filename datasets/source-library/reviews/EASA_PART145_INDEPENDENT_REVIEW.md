@@ -125,8 +125,8 @@ Permitted review results:
 | Action ID | Open item | Criticality | Owner | Target date | Status |
 |---|---|---|---|---|---|
 | EASA-IR-001 | Confirm official Status Dataset update date | P0 | | | CLOSED WITH LIMITATION — XLSX and PDF reconciled; retrieval/export date verified as 2026-09-09; official EASA dataset update date not published or independently verified |
-| EASA-IR-002 | Confirm no later Certificate exists | P0 | | | OPEN |
-| EASA-IR-003 | Confirm no later Terms of Approval exists | P0 | | | OPEN |
+| EASA-IR-002 | Confirm no later Certificate exists | P0 | | | CLOSED WITH LIMITATION — CERTIFICATE REVISION 7 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
+| EASA-IR-003 | Confirm no later Terms of Approval exists | P0 | | | CLOSED WITH LIMITATION — ATTACHED TERMS CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-IR-004 | Confirm Capability List Revision 00 remains current | P0 | | | OPEN |
 | EASA-IR-005 | Resolve Capability List date discrepancy | P0 | | | OPEN |
 | EASA-IR-006 | Complete detailed Amendment 9 review | P0 | | | OPEN |
@@ -136,6 +136,14 @@ Permitted review results:
 The XLSX and PDF records for EASA.145.0775 were reconciled. The approval number, organisation identity, country, six A1 aircraft limitation records, one C07 rating record and four D1 NDT-method records are consistent.
 
 The date 2026-09-09 is controlled as the project retrieval/export date. Because an official EASA dataset update date was not published or independently verified, EASA-IR-001 is closed with limitation rather than passed without qualification.
+
+### Certificate and Terms Currency Note
+
+The organisation confirms that the provided EASA Form 3 remains current. The document identifies Certificate Revision 7 dated 7 December 2024 and includes the attached Terms of Approval.
+
+The file name refers to Revision 3, but the controlled document content identifies Revision 7. Revision 7 is therefore used for verification.
+
+No independent EASA IFP record demonstrating that no later Certificate or Terms of Approval exists was provided. EASA-IR-002 and EASA-IR-003 are closed with limitation.
 
 ## 10. Review Decision
 
