@@ -141,7 +141,7 @@ The MOE describes the approved organisation, management system, procedures, loca
 
 | Evidence | Expected record | Current status | Required action |
 |---|---|---|---|
-| Status Dataset | EASA.145.0775 and organisation name | VERIFIED — VALID LISTING IDENTIFIED | Retain dataset date and retrieval evidence |
+| Status Dataset | EASA.145.0775 and organisation name | VERIFIED — VALID LISTING IDENTIFIED | Retrieval/export date verified as 2026-09-09; official EASA dataset update date not published |
 | Approval Certificate | EASA Form 3 Revision 7, dated 7 December 2024 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
 | Terms of Approval | Attached to Certificate Revision 7 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
 | MOE | VAECO-EASA-MOE Revision 28, approved 6 June 2026 | VERIFIED | EASA approval evidence and LEP reviewed |
@@ -221,7 +221,7 @@ Gate closure remains subject to auditor approval and independent review.
 | EASA-VP-001 | Confirm latest consolidated Regulation 1321/2014 | P0 | PARTIAL PASS — SOURCE IDENTIFIED |
 | EASA-VP-002 | Verify ED Decision and amendment chain | P0 | PARTIAL PASS — LATEST DECISION IDENTIFIED |
 | EASA-VP-003 | Confirm current AMC/GM to Part-145 | P0 | PARTIAL PASS — ISSUE 2 AMENDMENT 9 IDENTIFIED |
-| EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | PARTIAL PASS — VALID LISTING IDENTIFIED; DATASET DATE OPEN |
+| EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | PARTIAL PASS — VALID LISTING AND RETRIEVAL/EXPORT DATE VERIFIED; OFFICIAL DATASET UPDATE DATE NOT PUBLISHED |
 | EASA-VP-005 | Confirm current Approval Certificate | P0 | PARTIAL PASS — REVISION 7 VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-006 | Confirm current Terms of Approval | P0 | PARTIAL PASS - ATTACHED TERMS VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PASS - REVISION 28 APPROVED ON 6 JUNE 2026 |
@@ -239,3 +239,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Reconciled EASA-approved MOE Revision 28, locations and NDT scope | HOPHUONG-SQD |
 | 2026-09-12 | Updated C07 Capability List verification status | HOPHUONG-SQD |
 | 2026-09-12 | Created EASA independent-review gate and pending review record | HOPHUONG-SQD |
+| 2026-09-12 | Reconciled Status Dataset XLSX/PDF and closed EASA-IR-001 with limitation | HOPHUONG-SQD |
