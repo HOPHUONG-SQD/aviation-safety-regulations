@@ -44,8 +44,8 @@ The EASA Part-145 framework is controlled through:
 | EASA-AMC-GM-P145-001 | AMC & GM to Part-145 — Issue 2, Amendment 9 | AMC/GM | https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-material/amc-gm-part-145-issue-2-amendment-9 | VERIFIED — CURRENT PUBLICATION IDENTIFIED | Detailed provision-level review remains open |
 | EASA-F145-UG-001 | Foreign Part-145 User Guide | Administrative guidance | EASA Foreign Part-145 portal | VERIFICATION REQUIRED | Confirm current guide and revision |
 | EASA-STATUS-0775 | Valid Foreign Part-145 organisation listing | Status evidence | EASA valid Foreign Part-145 list | VERIFIED — ORGANISATION IDENTIFIED | Record dataset date and retrieval evidence |
-| EASA-CERT-0775 | EASA Form 3 / Approval Certificate | Approval evidence | Organisation-controlled source | VERIFICATION REQUIRED | Confirm current certificate revision |
-| EASA-TOA-0775 | Terms of Approval | Scope evidence | Organisation-controlled source | VERIFICATION REQUIRED | Confirm current ratings and limitations |
+| EASA-CERT-0775 | EASA Form 3 / Approval Certificate | Approval evidence | Organisation-controlled source | PARTIAL PASS — REVISION 7 CONFIRMED CURRENT BY ORGANISATION | Independent latest-revision evidence not provided |
+| EASA-TOA-0775 | Terms of Approval | Scope evidence | Attached to EASA Form 3 Revision 7 | PARTIAL PASS — CONFIRMED CURRENT BY ORGANISATION | Independent latest-revision evidence not provided |
 | EASA-MOE-0775 | VAECO EASA MOE | Approved organisation manual | Organisation-controlled source | VERIFICATION REQUIRED | Confirm approval and current revision |
 | EASA-SCOPE-0775 | Scope Dataset | Scope evidence | Controlled project dataset | VERIFICATION REQUIRED | Confirm ratings, limitations and locations |
 
@@ -142,8 +142,8 @@ The MOE describes the approved organisation, management system, procedures, loca
 | Evidence | Expected record | Current status | Required action |
 |---|---|---|---|
 | Status Dataset | EASA.145.0775 and organisation name | VERIFIED — VALID LISTING IDENTIFIED | Retrieval/export date verified as 2026-09-09; official EASA dataset update date not published |
-| Approval Certificate | EASA Form 3 Revision 7, dated 7 December 2024 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
-| Terms of Approval | Attached to Certificate Revision 7 | VERIFIED FROM PROVIDED COPY | Confirm no later controlled revision exists |
+| Approval Certificate | EASA Form 3 Revision 7, dated 7 December 2024 | PARTIAL PASS — CURRENT STATUS CONFIRMED BY ORGANISATION | Document content verified; independent evidence that no later revision exists was not provided |
+| Terms of Approval | Attached to Certificate Revision 7 | PARTIAL PASS — CURRENT STATUS CONFIRMED BY ORGANISATION | Scope content verified; independent evidence that no later revision exists was not provided |
 | MOE | VAECO-EASA-MOE Revision 28, dated 06 June 2026 | VERIFIED FROM PROVIDED APPROVAL EVIDENCE | Approval letter 2026/OATpl/PH-1999 confirms document 1450775MOE260606 Rev28; confirm no later controlled revision exists |
 | Scope Dataset | Aircraft ratings, maintenance levels, C07, D1 and approved locations | PARTIAL PASS | C07 detail remains subject to approved Capability List |
 | Approved locations | HAN and SGN | VERIFIED | Detailed capability by location remains open |
@@ -194,8 +194,12 @@ Reason:
 - ED Decision 2026/002/R has been verified as the source of Issue 2, Amendment 8
 - Issue 2, Amendment 9 and associated ED Decision 2026/005/R have been identified as the latest publications
 - Detailed Amendment 9 content and cumulative AMC/GM history still require review
-- Organisation-specific Certificate, Terms of Approval, MOE and Scope Dataset require final reconciliation
-
+- Certificate Revision 7 and its attached Terms of Approval were verified from the provided EASA Form 3
+- VAECO confirms that Certificate Revision 7 and the attached Terms remain current
+- Independent evidence that no later Certificate or Terms revision exists was not provided
+- MOE Revision 28 approval evidence was verified; the latest-revision check remains open
+- Scope Dataset and detailed capability-by-location reconciliation remain open
+  
 ## 11. Compliance Boundary
 
 This verification pass assesses:
@@ -222,8 +226,8 @@ Gate closure remains subject to auditor approval and independent review.
 | EASA-VP-002 | Verify ED Decision and amendment chain | P0 | PARTIAL PASS — LATEST DECISION IDENTIFIED |
 | EASA-VP-003 | Confirm current AMC/GM to Part-145 | P0 | PARTIAL PASS — ISSUE 2 AMENDMENT 9 IDENTIFIED |
 | EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | PARTIAL PASS — VALID LISTING AND RETRIEVAL/EXPORT DATE VERIFIED; OFFICIAL DATASET UPDATE DATE NOT PUBLISHED |
-| EASA-VP-005 | Confirm current Approval Certificate | P0 | PARTIAL PASS — REVISION 7 VERIFIED; LATEST-REVISION CHECK OPEN |
-| EASA-VP-006 | Confirm current Terms of Approval | P0 | PARTIAL PASS - ATTACHED TERMS VERIFIED; LATEST-REVISION CHECK OPEN |
+| EASA-VP-005 | Confirm current Approval Certificate | P0 | PARTIAL PASS — REVISION 7 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
+| EASA-VP-006 | Confirm current Terms of Approval | P0 | PARTIAL PASS — ATTACHED TERMS CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PARTIAL PASS — REVISION 28 APPROVAL EVIDENCE VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS - C07 CONTENT VERIFIED; DATE AND CURRENT-REVISION CONFIRMATION OPEN |
 | EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PASS - HAN/HCM AND NDT SCOPE VERIFIED |
@@ -241,3 +245,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Created EASA independent-review gate and pending review record | HOPHUONG-SQD |
 | 2026-09-12 | Reconciled Status Dataset XLSX/PDF and closed EASA-IR-001 with limitation | HOPHUONG-SQD |
 | 2026-09-12 | Verified VAECO-EASA-MOE Revision 28 approval evidence and updated EASA-VP-007 | HOPHUONG-SQD |
+| 2026-09-13 | Synchronized EASA-VP-005 and EASA-VP-006 using organisation-confirmed current Certificate Revision 7 and attached Terms of Approval | HOPHUONG-SQD |
