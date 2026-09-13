@@ -128,7 +128,7 @@ Permitted review results:
 | EASA-IR-002 | Confirm no later Certificate exists | P0 | | | CLOSED WITH LIMITATION — CERTIFICATE REVISION 7 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-IR-003 | Confirm no later Terms of Approval exists | P0 | | | CLOSED WITH LIMITATION — ATTACHED TERMS CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-IR-004 | Confirm Capability List Revision 00 remains current | P0 | | | CLOSED WITH LIMITATION — REVISION 00 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT CURRENCY EVIDENCE NOT PROVIDED |
-| EASA-IR-005 | Resolve Capability List date discrepancy | P0 | | | OPEN |
+| EASA-IR-005 | Resolve Capability List date discrepancy | P0 | | | CLOSED — INITIAL ISSUE, DOCUMENT REVISION AND EASA APPROVAL DATE PURPOSES RECONCILED |
 | EASA-IR-006 | Complete detailed Amendment 9 review | P0 | | | OPEN |
 
 ### Status Dataset Review Note
@@ -153,7 +153,13 @@ The supplied EASA IFP record identifies Revision 00, revision date 7 October 202
 
 EASA-IR-004 is therefore closed with limitation.
 
-The discrepancy between `7 October 2023` on the List of Issues/Amendments page and `7 October 2024` in the remaining controlled pages and EASA IFP record remains unresolved. EASA-IR-005 remains open, and the discrepancy is not treated as a finding at this stage.
+The three recorded dates represent different document-control events:
+
+- `7 October 2023` — Initial issue date
+- `7 October 2024` — Document Revision 00 date
+- `10 December 2024` — EASA acceptance/approval date
+
+The dates have been reconciled and are not conflicting. EASA-IR-005 is closed, and no finding is established.
 
 ## 10. Review Decision
 
