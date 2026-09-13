@@ -9,12 +9,13 @@ This is a regulatory-source verification record. It does not establish organisat
 ## 2. Verification Status
 
 ```text
-CAAV/VAR SOURCE REVIEW: IN PROGRESS
-AMO-01 TO AMO-20 MAPPING: SOURCE VERIFIED
-AMO-21 TO AMO-26 MAPPING: PENDING
+CAAV/VAR SOURCE REVIEW: COMPLETE
+AMO-01 TO AMO-26 MAPPING: TECHNICAL SOURCE MAPPING COMPLETE
+ORGANISATIONAL APPLICABILITY: REQUIRES SEPARATE ASSESSMENT
 ORGANISATIONAL COMPLIANCE ASSESSMENT: NOT PERFORMED
 CAAV/VAR GATE: OPEN
 ```
+
 ## 3. Authoritative Source Set
 
 | Source ID | Instrument | Regulatory role | Current assessment |
@@ -70,8 +71,7 @@ CAAV/VAR regulatory provisions for AMO-01 through AMO-10 have been located and r
 `VERIFIED` in this section means that an applicable regulatory provision has been identified and reviewed. It does not mean that VAECO or another maintenance organisation has been assessed as compliant.
 
 ```text
-AMO-01 TO AMO-20: SOURCE MAPPING VERIFIED
-AMO-21 TO AMO-26: REVIEW PENDING
+AMO-01 TO AMO-26: SEE CUMULATIVE STATUS IN SECTION 8.1
 ORGANISATIONAL COMPLIANCE: NOT ASSESSED
 FINDINGS: NOT ESTABLISHED
 CAAV/VAR GATE: OPEN
@@ -97,9 +97,36 @@ CAAV/VAR regulatory provisions for AMO-11 through AMO-20 have been located and r
 
 `VERIFIED` means that the applicable regulatory provision has been identified and reviewed. It does not establish organisational compliance or confirm that the organisation has implemented the requirement.
 
+## 8. Provision-level Mapping for AMO-21 to AMO-26
+
+| Change ID | Core subject | Verified CAAV/VAR provision | Source-verification conclusion | Organisational evidence boundary |
+|---|---|---|---|---|
+| AMO-21 | Findings and corrective action | Điều 6 — Chương trình kiểm tra, giám sát của Cục Hàng không Việt Nam; Điều 7 — Xử lý hành vi không tuân thủ; Điều 9 — Nguyên tắc áp dụng biện pháp hạn chế, đình chỉ, thu hồi; Điều 11 — Hạn chế, đình chỉ, thu hồi giấy chứng nhận tổ chức bảo dưỡng; Điều 143 — quality and inspection procedures | VERIFIED — surveillance, non-compliance handling, corrective control and enforcement interfaces are established | Finding classification, corrective-action plan, root cause, implementation, effectiveness and CAAV acceptance require case-specific objective evidence |
+| AMO-22 | Management system and compliance monitoring | Điều 140 — personnel assigned to maintenance-quality and safety-management functions; Điều 142 — initial training in quality and safety systems; Điều 143 — quality or inspection system and quality-audit procedures | VERIFIED — quality-system, inspection, internal-audit and responsible-personnel controls are established | Organisational structure, independence, audit programme, auditor competence, findings, corrective actions and management follow-up require objective evidence |
+| AMO-23 | Safety Management System | Nghị định 221/2026/NĐ-CP — State safety-management and oversight framework; Thông tư 18/2026/TT-BXD — Vietnam State Safety Programme; Điều 140 and Điều 142 — AMO safety-management personnel and initial SMS training content | VERIFIED AT FRAMEWORK LEVEL — State safety and AMO safety-management interfaces are identified | Exact organisational applicability, SMS acceptance, safety policy, hazard identification, risk management, reporting, assurance and promotion require a separate SMS assessment |
+| AMO-24 | Contracted and subcontracted maintenance | Điều 143 — subcontracted activities, agreements with external service providers, supplier evaluation, contractor/subcontractor control and quality evaluation | VERIFIED — contracted and subcontracted maintenance activities must remain under controlled procedures and quality oversight | Contracts, approved scope, supplier evaluation, work orders, incoming acceptance, surveillance and organisational responsibility require objective evidence |
+| AMO-25 | Approved locations | Điều 137 and Điều 138 — ratings and specific ratings; Điều 139 — approved capability; Điều 143 — notification of location changes and control of maintenance outside the approved base | VERIFIED — maintenance locations and work outside approved locations are subject to approval-scope and procedural controls | Each location must be reconciled with the current CAAV approval certificate, approved scope, ratings, capability, facilities, personnel and maintenance level |
+| AMO-26 | Specialised services and NDT | Điều 137 khoản 7 — specialised-service rating; Điều 138 khoản 1 điểm g — specific specialised-service scope; Điều 141 and Điều 142 — specialised training and competence; Điều 143 — specialised-maintenance procedures and personnel controls | VERIFIED — specialised services are controlled through ratings, approved scope, procedures, training and competence | Each NDT method, personnel qualification, certification level, procedure, equipment, standard and approved location requires separate objective evidence |
+
+### 8.1 Final Technical Mapping Assessment
+
+CAAV/VAR regulatory provisions for AMO-21 through AMO-26 have been located and reviewed at source level.
+
+The technical source mapping for AMO-01 through AMO-26 is complete. This completion does not establish organisational compliance and does not authorise a finding or closure of the CAAV/VAR Gate.
+
 ```text
-AMO-01 TO AMO-20: SOURCE MAPPING VERIFIED
-AMO-21 TO AMO-26: REVIEW PENDING
+AMO-01 TO AMO-26: TECHNICAL SOURCE MAPPING COMPLETE
+ORGANISATIONAL APPLICABILITY: REQUIRES SEPARATE ASSESSMENT
 ORGANISATIONAL COMPLIANCE: NOT ASSESSED
 FINDINGS: NOT ESTABLISHED
 CAAV/VAR GATE: OPEN
+```
+
+## 9. Change History
+
+| Date | Change | Performed by |
+|---|---|---|
+| 2026-09-13 | Created the CAAV/VAR Part-145 verification pass and registered the authoritative source set | HOPHUONG-SQD |
+| 2026-09-13 | Verified source-level CAAV/VAR mappings for AMO-01 through AMO-10 | HOPHUONG-SQD |
+| 2026-09-13 | Verified source-level CAAV/VAR mappings for AMO-11 through AMO-20 | HOPHUONG-SQD |
+| 2026-09-13 | Completed source-level CAAV/VAR mappings for AMO-21 through AMO-26; retained organisational assessment and Gate closure as open | HOPHUONG-SQD |
