@@ -41,7 +41,7 @@ The EASA Part-145 framework is controlled through:
 | EASA-PART145-001 | Annex II — Part-145 | Mandatory regulation | Regulation 1321/2014 consolidated text | VERIFICATION REQUIRED | Confirm current amendment |
 | EASA-ED-2026-002-R | ED Decision 2026/002/R | EASA Decision | https://www.easa.europa.eu/en/document-library/agency-decisions/ed-decision-2026002r | VERIFIED — ISSUE 2 AMENDMENT 8 | Valid amendment history; not latest amendment |
 | EASA-ED-2026-005-R | ED Decision 2026/005/R | EASA Decision | Associated with AMC & GM to Part-145 Issue 2, Amendment 9 | VERIFIED — LATEST DECISION IDENTIFIED | Complete detailed decision-content review |
-| EASA-AMC-GM-P145-001 | AMC & GM to Part-145 — Issue 2, Amendment 9 | AMC/GM | https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-material/amc-gm-part-145-issue-2-amendment-9 | VERIFIED — CURRENT PUBLICATION IDENTIFIED | Detailed provision-level review remains open |
+| EASA-AMC-GM-P145-001 | AMC and GM to Part-145 — Issue 2, Amendment 9 | AMC/GM — non-binding material | https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-material/amc-gm-part-145-issue-2-amendment-9 | VERIFIED — CURRENT PUBLICATION AND AMENDMENT CONTENT REVIEWED | Cumulative provision mapping remains separate |
 | EASA-F145-UG-001 | Foreign Part-145 User Guide | Administrative guidance | EASA Foreign Part-145 portal | VERIFICATION REQUIRED | Confirm current guide and revision |
 | EASA-STATUS-0775 | Valid Foreign Part-145 organisation listing | Status evidence | EASA valid Foreign Part-145 list | VERIFIED — ORGANISATION IDENTIFIED | Record dataset date and retrieval evidence |
 | EASA-CERT-0775 | EASA Form 3 / Approval Certificate | Approval evidence | Organisation-controlled source | PARTIAL PASS — REVISION 7 CONFIRMED CURRENT BY ORGANISATION | Independent latest-revision evidence not provided |
@@ -193,7 +193,8 @@ Reason:
 - Detailed Annex II requirement review remains open
 - ED Decision 2026/002/R has been verified as the source of Issue 2, Amendment 8
 - Issue 2, Amendment 9 and associated ED Decision 2026/005/R have been identified as the latest publications
-- Detailed Amendment 9 content and cumulative AMC/GM history still require review
+- Amendment 9 source and provision-level changes have been verified; cumulative AMC/GM provision mapping remains separate
+- Capability List dates have been reconciled: 07 Oct 2023 initial, 07 Oct 2024 rev, 10 Dec approval
 - Certificate Revision 7 and its attached Terms of Approval were verified from the provided EASA Form 3
 - VAECO confirms that Certificate Revision 7 and the attached Terms remain current
 - Independent evidence that no later Certificate or Terms revision exists was not provided
@@ -224,12 +225,12 @@ Gate closure remains subject to auditor approval and independent review.
 |---|---|---|---|
 | EASA-VP-001 | Confirm latest consolidated Regulation 1321/2014 | P0 | PARTIAL PASS — SOURCE IDENTIFIED |
 | EASA-VP-002 | Verify ED Decision and amendment chain | P0 | PARTIAL PASS — LATEST DECISION IDENTIFIED |
-| EASA-VP-003 | Confirm current AMC/GM to Part-145 | P0 | PARTIAL PASS — ISSUE 2 AMENDMENT 9 IDENTIFIED |
+| EASA-VP-003 | Confirm current AMC/GM to Part-145 | P0 | PASS — ISSUE 2 AMENDMENT 9 VERIFIED AS CURRENT PUBLICATION; PROVISION-LEVEL REVIEW COMPLETE |
 | EASA-VP-004 | Record EASA.145.0775 status and dataset date | P0 | PARTIAL PASS — VALID LISTING AND RETRIEVAL/EXPORT DATE VERIFIED; OFFICIAL DATASET UPDATE DATE NOT PUBLISHED |
 | EASA-VP-005 | Confirm current Approval Certificate | P0 | PARTIAL PASS — REVISION 7 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-VP-006 | Confirm current Terms of Approval | P0 | PARTIAL PASS — ATTACHED TERMS CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PARTIAL PASS — REVISION 28 APPROVAL EVIDENCE VERIFIED; LATEST-REVISION CHECK OPEN |
-| EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS - C07 CONTENT VERIFIED; DATE AND CURRENT-REVISION CONFIRMATION OPEN |
+| EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS — C07 CONTENT AND DATE PURPOSES VERIFIED; REVISION 00 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT CURRENCY EVIDENCE NOT PROVIDED |
 | EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PASS - HAN/HCM AND NDT SCOPE VERIFIED |
 | EASA-VP-010 | Complete independent review | P0 | PENDING REVIEW - REVIEW RECORD CREATED |
 
@@ -246,3 +247,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Reconciled Status Dataset XLSX/PDF and closed EASA-IR-001 with limitation | HOPHUONG-SQD |
 | 2026-09-12 | Verified VAECO-EASA-MOE Revision 28 approval evidence and updated EASA-VP-007 | HOPHUONG-SQD |
 | 2026-09-13 | Synchronized EASA-VP-005 and EASA-VP-006 using organisation-confirmed current Certificate Revision 7 and attached Terms of Approval | HOPHUONG-SQD |
+| 2026-09-13 | Synchronized Amendment 9 review and Capability List date reconciliation into the EASA Verification Pass | HOPHUONG-SQD |
