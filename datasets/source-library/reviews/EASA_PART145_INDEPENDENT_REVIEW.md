@@ -129,7 +129,7 @@ Permitted review results:
 | EASA-IR-003 | Confirm no later Terms of Approval exists | P0 | | | CLOSED WITH LIMITATION — ATTACHED TERMS CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT LATEST-REVISION EVIDENCE NOT PROVIDED |
 | EASA-IR-004 | Confirm Capability List Revision 00 remains current | P0 | | | CLOSED WITH LIMITATION — REVISION 00 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT CURRENCY EVIDENCE NOT PROVIDED |
 | EASA-IR-005 | Resolve Capability List date discrepancy | P0 | | | CLOSED — INITIAL ISSUE, DOCUMENT REVISION AND EASA APPROVAL DATE PURPOSES RECONCILED |
-| EASA-IR-006 | Complete detailed Amendment 9 review | P0 | | | OPEN |
+| EASA-IR-006 | Complete detailed Amendment 9 review | P0 | | | CLOSED — AMENDMENT 9 SOURCE AND PROVISION-LEVEL CHANGES VERIFIED |
 
 ### Status Dataset Review Note
 
@@ -160,6 +160,19 @@ The three recorded dates represent different document-control events:
 - `10 December 2024` — EASA acceptance/approval date
 
 The dates have been reconciled and are not conflicting. EASA-IR-005 is closed, and no finding is established.
+
+### Amendment 9 Review Note
+
+ED Decision 2026/005/R and AMC and GM to Part-145 — Issue 2, Amendment 9 were verified from official EASA sources.
+
+The provision-level review identified two Part-145 changes:
+
+- AMC2 145.A.60 concerning occurrence-reporting guidance was deleted in full
+- AMC1 145.B.300(f)(c)(iv) concerning competent-authority oversight was amended
+
+The deletion of AMC2 145.A.60 does not remove the underlying mandatory occurrence-reporting obligations. The amendment to AMC1 145.B.300(f)(c)(iv) is primarily an authority-oversight interface and is not treated as a standalone new VAECO requirement.
+
+EASA-IR-006 is closed. No VAECO compliance assessment or finding is established by this source review.
 
 ## 10. Review Decision
 
