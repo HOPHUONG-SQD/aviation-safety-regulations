@@ -237,10 +237,15 @@ REJECTED
 ### Current Sign-off Status
 
 ```text
-AWAITING INDEPENDENT REVIEWER
+INDEPENDENT REVIEW: DEFERRED
+REVIEW DECISION: NOT PERFORMED
+OVERALL EASA GATE: OPEN
+GATE CLOSURE: NOT AUTHORISED
 ```
 
-The overall EASA Gate must remain open until the reviewer records a permitted decision, rationale and controlled approval reference.
+Independent review is deferred to a later project phase. The technical verification records may continue to support controlled research and matrix development, but they must not be represented as independently reviewed or used as the sole basis for a finding or organisational compliance conclusion.
+
+The overall EASA Gate remains open. Gate closure is not authorised until an independent reviewer records a permitted decision, rationale and controlled approval reference.
 
 ## 12. Change History
 
@@ -248,3 +253,4 @@ The overall EASA Gate must remain open until the reviewer records a permitted de
 |---|---|---|
 | 2026-09-12 | Initial EASA Part-145 independent review record created | HOPHUONG-SQD |
 | 2026-09-13 | Closed technical review items and added independent reviewer checklist and sign-off control | HOPHUONG-SQD |
+| 2026-09-13 | Independent review deferred; Gate retained as open and closure not authorised | HOPHUONG-SQD |
