@@ -188,3 +188,63 @@ Current decision:
 
 ```text
 PENDING REVIEW
+```
+
+## 11. Independent Reviewer Sign-off
+
+### Reviewer Independence
+
+The reviewer must be independent from preparation of the verification records and must not approve their own work.
+
+| Field | Reviewer entry |
+|---|---|
+| Reviewer name | TO BE COMPLETED |
+| Position / function | TO BE COMPLETED |
+| Organisation / department | TO BE COMPLETED |
+| Independence confirmed | YES / NO |
+| Review date | YYYY-MM-DD |
+| Evidence package reviewed | TO BE COMPLETED |
+| Conflicts identified | NONE / LIST REFERENCES |
+| Review decision | TO BE COMPLETED |
+| Decision rationale | TO BE COMPLETED |
+| Signature or controlled approval reference | TO BE COMPLETED |
+
+### Reviewer Checklist
+
+- [ ] Official Regulation 1321/2014 source and applicable consolidated status reviewed
+- [ ] ED Decision 2026/005/R and Part-145 Issue 2 Amendment 9 reviewed
+- [ ] Status Dataset evidence and date limitation reviewed
+- [ ] Certificate Revision 7 and attached Terms of Approval reviewed
+- [ ] MOE Revision 28 approval evidence reviewed
+- [ ] Capability List Revision 00 and date reconciliation reviewed
+- [ ] Aircraft ratings and Line/Base limitations reconciled
+- [ ] C07 capability scope reviewed
+- [ ] D1 methods and approved locations reviewed
+- [ ] Status evidence distinguished from scope evidence
+- [ ] Applicability distinguished from organisational compliance
+- [ ] No finding established without an exact applicable requirement
+- [ ] Open limitations assessed for effect on the Gate decision
+
+### Permitted Reviewer Decision
+
+```text
+PASS
+PASS WITH OPEN NON-CRITICAL ACTIONS
+REQUIRES CORRECTION
+REJECTED
+```
+
+### Current Sign-off Status
+
+```text
+AWAITING INDEPENDENT REVIEWER
+```
+
+The overall EASA Gate must remain open until the reviewer records a permitted decision, rationale and controlled approval reference.
+
+## 12. Change History
+
+| Date | Change | Performed by |
+|---|---|---|
+| 2026-09-12 | Initial EASA Part-145 independent review record created | HOPHUONG-SQD |
+| 2026-09-13 | Closed technical review items and added independent reviewer checklist and sign-off control | HOPHUONG-SQD |
