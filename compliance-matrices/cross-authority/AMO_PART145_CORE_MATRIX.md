@@ -39,16 +39,16 @@ These are source-mapping codes, not compliance codes.
 
 | ID | Regulatory domain | ICAO | CAAV | FAA | EASA | Mapping status | Open action |
 |---|---|---|---|---|---|---|---|
-| AMO-01 | Approval and certification | Annex 8, Part II, Chapter 6 — verify exact provision | Exact VAR provision required | 14 CFR Part 145 — verify exact section | 145.A.10 and 145.A.15 — verify current text | VERIFY | Confirm P0 provisions |
-| AMO-02 | Terms and scope of approval | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | Part 145 certificate, ratings and OpSpecs — verify sections | 145.A.20 — verify current text | VERIFY | Separate status from scope |
-| AMO-03 | Facility requirements | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | 14 CFR Part 145 Subpart C — verify section | 145.A.25 — verify current text | VERIFY | Confirm environmental criteria |
-| AMO-04 | Personnel requirements | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | 14 CFR Part 145 Subpart D — verify sections | 145.A.30 — verify current text | VERIFY | Map accountable and nominated personnel |
-| AMO-05 | Certifying and inspection personnel | Annex 8 and Annex 1 interfaces — verify | Exact VAR and licensing provisions required | 14 CFR Parts 65 and 145 — verify sections | 145.A.35 — verify current text | VERIFY | Separate licence from organisation authorisation |
-| AMO-06 | Human Factors and training | Annex 8 AMO provisions — verify | Exact VAR training provisions required | 14 CFR 145 training requirements — verify section | 145.A.30 and 145.A.35 plus AMC/GM — verify | VERIFY | Confirm recurrent-training requirements |
-| AMO-07 | Tools and equipment | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | 14 CFR Part 145 — verify applicable section | 145.A.40 — verify current text | VERIFY | Map calibration and serviceability |
-| AMO-08 | Components, parts and materials | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR Parts 43 and 145 — verify | 145.A.42 — verify current text | VERIFY | Confirm acceptance and segregation controls |
-| AMO-09 | Maintenance data | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR Parts 43 and 145 — verify | 145.A.45 — verify current text | VERIFY | Confirm currency and availability |
-| AMO-10 | Production planning | Annex 8 AMO provisions — verify | Exact VAR provision required | Related FAA manual and operational controls — verify | 145.A.47 — verify current text | VERIFY | Determine direct FAA equivalent |
+| AMO-01 | Approval and certification | Annex 8, Part II, Chapter 6 — verify exact provision | Exact VAR provision required | 14 CFR Part 145 — verify exact section | 145.A.10 and 145.A.15 — VERIFIED | VERIFY | ICAO, VAR and FAA provisions remain open |
+| AMO-02 | Terms and scope of approval | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | Part 145 certificate, ratings and OpSpecs — verify sections | 145.A.20 — VERIFIED; reconcile organisation scope separately | VERIFY | Separate approval status from approved scope |
+| AMO-03 | Facility requirements | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | 14 CFR Part 145 Subpart C — verify sections | 145.A.25 — VERIFIED | VERIFY | Confirm ICAO, VAR, FAA and organisation-specific facility criteria |
+| AMO-04 | Personnel requirements | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | 14 CFR Part 145 Subpart D — verify sections | 145.A.30 — VERIFIED | VERIFY | Map accountable manager, nominated persons and other personnel functions |
+| AMO-05 | Certifying and inspection personnel | Annex 8 and Annex 1 interfaces — verify | Exact VAR and licensing provisions required | 14 CFR Parts 65 and 145 — verify sections | 145.A.35 — VERIFIED | VERIFY | Separate personnel licence from organisation authorisation |
+| AMO-06 | Human Factors and training | Annex 8 AMO provisions — verify | Exact VAR training provisions required | 14 CFR Part 145 training requirements — verify section | 145.A.30 and 145.A.35 — VERIFIED; applicable cumulative AMC/GM mapping remains open | VERIFY | Confirm initial, recurrent and Human Factors training interfaces |
+| AMO-07 | Tools and equipment | Annex 8, Part II, Chapter 6 — verify | Exact VAR provision required | 14 CFR Part 145 — verify applicable section | 145.A.40 — VERIFIED | VERIFY | Map calibration, control and serviceability requirements |
+| AMO-08 | Components, parts and materials | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR Parts 43 and 145 — verify | 145.A.42 — VERIFIED | VERIFY | Confirm acceptance, classification, installation and segregation controls |
+| AMO-09 | Maintenance data | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR Parts 43 and 145 — verify | 145.A.45 — VERIFIED | VERIFY | Confirm maintenance-data currency, applicability and availability |
+| AMO-10 | Production planning | Annex 8 AMO provisions — verify | Exact VAR provision required | Related FAA manual and operational controls — verify | 145.A.47 — VERIFIED | VERIFY | Determine direct FAA equivalent and retain authority-specific differences |
 | AMO-11 | Performance of maintenance | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR 43.13 and Part 145 interfaces — verify | 145.A.48 — verify current text | VERIFY | Confirm maintenance-performance standard |
 | AMO-12 | Certification and release to service | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR Parts 43 and 145 — verify applicable provisions | 145.A.50 — verify current text | VERIFY | Compare release terminology and privileges |
 | AMO-13 | Maintenance records | Annex 8 AMO provisions — verify | Exact VAR provision required | 14 CFR Part 145 records requirements — verify | 145.A.55 — verify current text | VERIFY | Compare retention periods |
@@ -116,3 +116,20 @@ Control rule:
 
 ```text
 NO REQUIREMENT → NO FINDING
+```
+
+## 9. Next Verification Priorities
+
+1. Confirm the exact ICAO Annex 8 AMO provisions.
+2. Identify the current CAAV/VAR provisions for all matrix domains.
+3. Complete verification of exact FAA sections under 14 CFR Parts 43, 65 and 145.
+4. Continue cumulative EASA AMC/GM provision mapping where required.
+5. Resolve remaining terminology and applicability differences.
+6. Obtain independent review before using a P0 mapping for a finding.
+
+## 10. Change History
+
+| Date | Change | Performed by |
+|---|---|---|
+| 2026-09-12 | Initial core cross-authority matrix created | HOPHUONG-SQD |
+| 2026-09-13 | Verified and synchronized EASA Part-145 references for AMO-01 through AMO-10; overall mappings remain open for other authorities | HOPHUONG-SQD |
