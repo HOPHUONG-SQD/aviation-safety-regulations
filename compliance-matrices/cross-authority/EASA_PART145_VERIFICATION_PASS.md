@@ -200,6 +200,9 @@ Reason:
 - Independent evidence that no later Certificate or Terms revision exists was not provided
 - MOE Revision 28 approval evidence was verified; the latest-revision check remains open
 - Scope Dataset and detailed capability-by-location reconciliation remain open
+- Independent review has been deferred to a later project phase
+- No independent reviewer decision or controlled approval reference has been recorded
+- EASA Gate closure is not authorised
   
 ## 11. Compliance Boundary
 
@@ -232,7 +235,7 @@ Gate closure remains subject to auditor approval and independent review.
 | EASA-VP-007 | Confirm MOE approval and amendment status | P0 | PARTIAL PASS — REVISION 28 APPROVAL EVIDENCE VERIFIED; LATEST-REVISION CHECK OPEN |
 | EASA-VP-008 | Reconcile Scope Dataset with Certificate, Terms of Approval and MOE | P0 | PARTIAL PASS — C07 CONTENT AND DATE PURPOSES VERIFIED; REVISION 00 CONFIRMED CURRENT BY ORGANISATION; INDEPENDENT CURRENCY EVIDENCE NOT PROVIDED |
 | EASA-VP-009 | Confirm approved locations and NDT scope | P0 | PASS - HAN/HCM AND NDT SCOPE VERIFIED |
-| EASA-VP-010 | Complete independent review | P0 | PENDING REVIEW - REVIEW RECORD CREATED |
+| EASA-VP-010 | Complete independent review | P0 | DEFERRED — INDEPENDENT REVIEW NOT PERFORMED; GATE REMAINS OPEN |
 
 ## 13. Change History
 
@@ -248,3 +251,4 @@ Gate closure remains subject to auditor approval and independent review.
 | 2026-09-12 | Verified VAECO-EASA-MOE Revision 28 approval evidence and updated EASA-VP-007 | HOPHUONG-SQD |
 | 2026-09-13 | Synchronized EASA-VP-005 and EASA-VP-006 using organisation-confirmed current Certificate Revision 7 and attached Terms of Approval | HOPHUONG-SQD |
 | 2026-09-13 | Synchronized Amendment 9 review and Capability List date reconciliation into the EASA Verification Pass | HOPHUONG-SQD |
+| 2026-09-13 | Synchronized independent-review deferral; EASA Gate retained as open and closure not authorised | HOPHUONG-SQD |
