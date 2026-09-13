@@ -10,7 +10,8 @@ This is a regulatory-source verification record. It does not establish organisat
 
 ```text
 CAAV/VAR SOURCE REVIEW: IN PROGRESS
-AMO-01 TO AMO-26 MAPPING: NOT YET COMPLETE
+AMO-01 TO AMO-20 MAPPING: SOURCE VERIFIED
+AMO-21 TO AMO-26 MAPPING: PENDING
 ORGANISATIONAL COMPLIANCE ASSESSMENT: NOT PERFORMED
 CAAV/VAR GATE: OPEN
 ```
@@ -69,8 +70,36 @@ CAAV/VAR regulatory provisions for AMO-01 through AMO-10 have been located and r
 `VERIFIED` in this section means that an applicable regulatory provision has been identified and reviewed. It does not mean that VAECO or another maintenance organisation has been assessed as compliant.
 
 ```text
-AMO-01 TO AMO-10: SOURCE MAPPING VERIFIED
-AMO-11 TO AMO-26: REVIEW PENDING
+AMO-01 TO AMO-20: SOURCE MAPPING VERIFIED
+AMO-21 TO AMO-26: REVIEW PENDING
+ORGANISATIONAL COMPLIANCE: NOT ASSESSED
+FINDINGS: NOT ESTABLISHED
+CAAV/VAR GATE: OPEN
+```
+## 7. Provision-level Mapping for AMO-11 to AMO-20
+
+| Change ID | Core subject | Verified CAAV/VAR provision | Source-verification conclusion | Organisational evidence boundary |
+|---|---|---|---|---|
+| AMO-11 | Performance of maintenance | Điều 123 — Tổ chức, cá nhân thực hiện bảo dưỡng; Điều 126 — Các quy tắc thực hiện bảo dưỡng; Điều 143 — Tài liệu quy trình tổ chức bảo dưỡng | VERIFIED — maintenance must be performed by an appropriately approved organisation using applicable approved data, procedures and performance standards | Work orders, task cards, maintenance data, inspections, independent inspections and completed maintenance records require objective evidence |
+| AMO-12 | Certification and release to service | Điều 125 — Tổ chức, cá nhân cấp giấy chứng nhận cho phép khai thác; Điều 135 — Giấy chứng nhận cho phép khai thác; Điều 145 — Chứng nhận cho phép khai thác | VERIFIED — release certification must be issued by an appropriately authorised person after the required maintenance has been completed | Individual authorisation, licence, scope, recency, maintenance completion and release records require separate verification |
+| AMO-13 | Maintenance records | Điều 133 — Hồ sơ bảo dưỡng, thay đổi thiết kế và sửa chữa; Điều 134 — Nội dung, hình thức và quản lý hồ sơ; Điều 144 — Hồ sơ bảo dưỡng; Điều 146 — Hồ sơ quản lý bảo dưỡng | VERIFIED — creation, content, control, retention and availability of maintenance records are required | Record completeness, signatures, traceability, retention periods, electronic controls and retrieval capability require organisational evidence |
+| AMO-14 | Occurrence and defect reporting | Điều 109 — Báo cáo hỏng hóc, trục trặc, khiếm khuyết; Điều 118 — Xử lý thông tin về hỏng hóc, trục trặc, khiếm khuyết; applicable reporting and safety procedures required by Điều 143 | VERIFIED — reporting and processing of maintenance-related defects, malfunctions and safety information are established | Reporting thresholds, recipients, timelines, internal investigation, mandatory reports and closure records require separate verification |
+| AMO-15 | Maintenance procedures | Điều 126 — Các quy tắc thực hiện bảo dưỡng; Điều 143 — Tài liệu quy trình tổ chức bảo dưỡng | VERIFIED — controlled maintenance procedures covering the approved activities are required | Current procedure revisions, approval status, staff access, implementation and conformity with approved maintenance data require objective evidence |
+| AMO-16 | Organisation manual or exposition | Điều 143 — Tài liệu quy trình tổ chức bảo dưỡng | VERIFIED — the organisation must establish and maintain a controlled procedure document describing its organisation, approved scope, responsibilities, facilities and maintenance-control processes | Current CAAV approval, document revision, amendment approval, distribution and implementation require separate verification |
+| AMO-17 | Privileges | Điều 137 — Năng định; Điều 138 — Năng định cụ thể; Điều 139 — Danh mục năng lực; Điều 145 — Chứng nhận cho phép khai thác | VERIFIED — maintenance and release privileges are limited by the approved ratings, specific ratings and capability | Actual privileges must be reconciled with the current approval certificate, scope, capability list, locations and personnel authorisations |
+| AMO-18 | Limitations | Điều 137 — Năng định; Điều 138 — Năng định cụ thể; Điều 139 — Danh mục năng lực | VERIFIED — ratings, specific ratings, maintenance limitations and capability controls establish the boundaries of authorised work | Aircraft, engine, component, specialised-service, maintenance-level and location limitations require approval-scope evidence |
+| AMO-19 | Changes to organisation | Điều 143 — required procedures for changes affecting approval scope, activities, locations, management and personnel; Nghị định 223/2026/NĐ-CP — prior approval is required for changes affecting approved conditions | VERIFIED — changes affecting the basis or scope of approval are subject to controlled notification or prior approval | Change classification, CAAV submission, approval, revised manuals, implementation date and affected authorisations require objective evidence |
+| AMO-20 | Continued validity | Nghị định 223/2026/NĐ-CP — continued compliance with approval conditions and limitations; Điều 139 — annual capability-list review; Điều 140 and Điều 143 — continuing personnel and procedure controls | VERIFIED — continued exercise of approval privileges depends on maintaining the applicable requirements and approved conditions | Current certificate status, surveillance results, unresolved findings, continuing resources, manual currency and capability reviews require separate verification |
+
+### 7.1 Batch Assessment
+
+CAAV/VAR regulatory provisions for AMO-11 through AMO-20 have been located and reviewed at source level.
+
+`VERIFIED` means that the applicable regulatory provision has been identified and reviewed. It does not establish organisational compliance or confirm that the organisation has implemented the requirement.
+
+```text
+AMO-01 TO AMO-20: SOURCE MAPPING VERIFIED
+AMO-21 TO AMO-26: REVIEW PENDING
 ORGANISATIONAL COMPLIANCE: NOT ASSESSED
 FINDINGS: NOT ESTABLISHED
 CAAV/VAR GATE: OPEN
